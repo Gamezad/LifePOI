@@ -1,0 +1,4 @@
+name: LifePOI
+version: '${project.version}'
+main: ir.gamezad.lifepoi.LifePOI
+api-version: '1.21'
